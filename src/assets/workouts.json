@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "img": "C:/Users/Adela/Desktop/LICENTA/APLICATIE/fitnessPWA-master/src/assets2/1.jpg",
+    "title": "Chest/Triceps",
+    "date": "September 14, 2019",
+    "text": "Exercises that define and sculpt your chest help you look your best at the beach or the gym. They can also help you do a variety of daily tasks, like lifting or pushing objects.",
+    "cols": 3,
+    "exercises": [
+      "Bench press (4 sets)",
+      "Inclined Bench Press (3 sets)",
+      "Inclined Dumbbell Fly (3 sets)",
+      "Cable Crossover (3 sets)",
+      "Tricep Dips (4 sets)",
+      "Tricep Pushdown (3 sets)",
+      "Overhead Triceps Extension (3 sets)"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "../assets2/2.jpg",
+    "title": "Back/Biceps",
+    "date": "February 20, 2020",
+    "text": "The ultimate biceps workout for men. Not only do large, toned biceps look great, but the bicep muscles are also responsible for a considerable amount of arm function and movement.",
+    "cols": 3,
+    "exercises": [
+      "One-arm Dumbbell Row (4 sets)",
+      "Lat Pulldown (3 sets)",
+      "Seated Cable Row (3 sets)",
+      "V-bar Pulldown (3 sets)",
+      "Barbell Curl (4 sets)",
+      "Inclined Dumbbell Hammer Curl (3 sets)",
+      "Cable Hammer Curl (3 sets)"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "../assets2/3.jpg",
+    "title": "Legs",
+    "date": "March 11, 2021",
+    "text": "A strong lower body is crucial to performance—whether you’re looking to improve your sports performance, gym work, or just daily functional fitness. And yes, we said “strong lower body.”",
+    "cols": 3,
+    "exercises": [
+      "Squat (4 sets)",
+      "Leg Press (3 sets)",
+      "Leg Extensions (3 sets)",
+      "Deadlift (4 sets)",
+      "Lying Leg Curls (3 sets)"
+    ]
+  },
+  {
+    "id": 4,
+    "img": "../assets2/4.jpg",
+    "title": "Abs Workout",
+    "date": "May 05, 2021",
+    "text": "Get that defined abs! Its a new 10 min ab routine for you, and I think you're going to love this new fun workout!",
+    "cols": 3,
+    "exercises": [
+      "Crunch - 30 seconds",
+      "Crunch with knee lift - 30 seconds",
+      "Bicycle Crunch - 30 seconds",
+      "Toe reach crunch - 30 seconds",
+      "Roll in - 30 seconds",
+      "Oblique crunch right - 30 seconds",
+      "Oblique crunch left - 30 seconds",
+      "Sitting crunch - 30 seconds",
+      "Jack Knife - 30 seconds",
+      "Starfish crunch - 30 seconds",
+      "Reach out - Tuck in - 30 seconds"
+      
+    ]
+  },
+  {
+    "id": 5,
+    "img": "../assets2/5.jpg",
+    "title": "Shoulders",
+    "date": "July 21, 2020",
+    "text": "You need to hit your deltoids, upper trapezius, rotator muscles, and levator scapulae to truly build three-dimensional shoulders",
+    "cols": 3,
+    "exercises": [
+      "Dumbbell shoulder press (4 sets)",
+      "Front Cable Raise (3 sets)",
+      "Standing Lateral Raise (3 sets)",
+      "Back Fly (3 sets)",
+      "Dumbbell Shrug (4 sets)",
+      "Seated/Standing Calf Raise (4 sets)"
+    ]
+  },
+  {
+    "id": 6,
+    "img": "../assets2/6.jpg",
+    "title": "HIIT Workout",
+    "date": "August 09, 2020",
+    "text": "HIIT workouts generally combine short bursts of intense exercise with periods of rest or lower-intensity exercise.",
+    "cols": 3,
+    "exercises": [
+      "Close-Grip Chest Press - 30 seconds",
+      "Close-Grip Chest Press with Crunch - 45 seconds",
+      "Close-Grip Chest Press with Crunch and Leg Lowers - 75 seconds",
+      "Squat Hold - 45 seconds",
+      "Renegade Rows - 30 seconds",
+      "Weighted Walkout to Renegade Row - 45 seconds",
+      "Squat Hold - 45 seconds",
+      "Dumbbell Over-the-Shoulder Chops - 30 seconds",
+      "Squat and Over-the-Shoulder Chops - 45 seconds",
+      "Squat Thrust and Over-the-Shoulder Chops - 75 seconds",
+      "Cooldown Stretch - 45 seconds"
+      
+    ]
+  },
+  {
+    "id": 7,
+    "img": "../assets2/7.jpg",
+    "title": "Cardio Workout",
+    "date": "December 17, 2020",
+    "text": "Cardio workouts are the number one way to burn fat and calories. They increase aerobic fitness, lower heart disease risk, improve mental health, and boost your mood.",
+    "cols": 3,
+    "exercises": [
+      "Mountain climbers - 45 seconds",
+      "High knees - 45 seconds",
+      "Burpees - 45 seconds",
+      "Jumping jacks - 45 seconds",
+      "Lunges - 45 seconds",
+      "100-meter sprints"
+      
+    ]
+  },
+  {
+    "id": 8,
+    "img": "../assets2/8.jpeg",
+    "title": "TRX Workout",
+    "date": "June 13, 2021",
+    "text": "The TRX Suspension Trainer is one of the most versatile pieces of equipment in the gym or your home gym. You can take it pretty much anywhere — and help you achieve amazing results.",
+    "cols": 3,
+    "exercises": [
+      "Low Row - 15 reps",
+      "Chest Press - 15 reps",
+      "Y Fly - 20 reps",
+      "Triceps Press - 15 reps",
+      "Biceps Curl - 20 reps",
+      "Plank - 30 seconds",
+      "Pike - 10 reps",
+      "Side Bend - 15 reps"
+      
+    ]
+  },
+  {
+    "id": 9,
+    "img": "../assets2/9.jpg",
+    "title": "Glutes Workout",
+    "date": "January 19, 2021",
+    "text": "Your glutes exist for better reasons than just looking good in jeans. This major muscle group is a key player in explosive movements like jumping and sprinting.",
+    "cols": 3,
+    "exercises": [
+      "Walking Lunges (4 sets)",
+      "Stability Ball Hip Thrust (3 sets)",
+      "Single-Leg Deadlift (3 sets)",
+      "Supported Single-Leg Deadlift(3 sets)",
+      "Step Up (4 sets)",
+      "Banded Lateral Step-Out Squat (4 sets)",
+      "Banded Glute Bridge (3 sets)",
+      "Isometric Glute Bridge (3 sets)",
+      "Isometric Squat (4 sets)",
+      "Dumbbell Donkey Kick (3 sets)",
+      "Isometric Lunge (4 sets)",
+      "Goblet Squat (4 sets)",
+      "Jump Squat (3 sets)"
+    ]
+  }
+]
